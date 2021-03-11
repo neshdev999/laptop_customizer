@@ -1,2 +1,3 @@
-# laptop_customizer
-laptop order customization 
+# Laptop Customizer
+
+Laptop customization interface
